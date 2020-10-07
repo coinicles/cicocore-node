@@ -28,7 +28,7 @@
   "dependencies": {
     "async": "^1.3.0",
     "cicod-rpc": "https://github.com/coinicles/cicod-rpc.git#master",
-    "cicocore-lib": "https://github.com/aphunu/cicocore-lib.git#master",
+    "cicocore-lib": "https://github.com/coinicles/cicocore-lib.git#master",
     "bitcore-lib": "^0.13.13",
     "body-parser": "^1.13.3",
     "colors": "^1.1.2",
